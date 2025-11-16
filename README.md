@@ -147,3 +147,6 @@ end
 game.Players.LocalPlayer:LoadCharacter()
 print(game:service("ThumbnailGenerator"):click("PNG", 420, 420, true))
 ```
+# Site
+So, not really site is needed for 2007.
+But for example you can use site for assets (rendering or adding in game). But really thats not costing. Will add guide for assets.
